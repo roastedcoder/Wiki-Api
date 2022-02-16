@@ -7,6 +7,14 @@ a _**RESTful**_ web API to create/read/update/delete (CRUD) a content for our wi
 
 * http://localhost:3000/articles/title to get a single element and do CRUD on that single element.
 
+#### Sample Data:
+[
+  {
+    "title": "REST",
+    "content": "REpresentational State Transfer."
+  }
+]
+
 #### Technologies Used:
 * MongoDB
 * NodeJS
